@@ -47,7 +47,6 @@ portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
-├── favicon.svg
 └── README.md
 ```
 
@@ -64,7 +63,7 @@ To run this project locally:
 2. Open the project folder:
 
    ```bash
-   cd portfolio
+   cd MY-Portfolio
    ```
 
 3. Open the folder in Visual Studio Code.
