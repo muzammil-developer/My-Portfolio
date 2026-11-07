@@ -6,7 +6,7 @@ This portfolio showcases my skills, projects, and experience as a Frontend Devel
 
 ## 🚀 Live Demo
 
-🔗 **Portfolio Website:** [View Live Portfolio](YOUR_PORTFOLIO_URL)
+🔗 **Portfolio Website:** [View Live Portfolio](https://muzammil-developer.github.io/My-Portfolio/)
 
 ## 📸 About the Project
 
